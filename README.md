@@ -5,7 +5,7 @@ The goal is to build a responsive UI based on the provided design and demonstrat
 
 ## 🚀 Live Demo
 
-Hosted Link: *(Add your Netlify link here)*
+Hosted Link: *(https://react-ui-qualifier-61pq.vercel.app/)*
 
 ## 📂 GitHub Repository
 
