@@ -1,16 +1,62 @@
-# React + Vite
+# React UI Qualifier
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is created as part of a **React JS Qualifier **.
+The goal is to build a responsive UI based on the provided design and demonstrate understanding of React components, layout structure, and responsive design principles.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Hosted Link: *(Add your Netlify link here)*
 
-## React Compiler
+## 📂 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Repository Link: https://github.com/VishalMaurya15031/react-ui-qualifier
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React JS
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+
+## 📱 Features
+
+* Fully responsive design (Mobile, Tablet, Desktop)
+* Clean UI layout
+* Reusable React components
+* Structured folder organization
+* Modern styling
+
+## 📁 Project Structure
+
+```
+react-ui-qualifier
+│
+├── public
+├── src
+│   ├── components
+│   ├── pages
+│   ├── App.js
+│   └── index.js
+│
+└── package.json
+```
+
+## ▶️ Run Locally
+
+Clone the project
+
+```
+git clone https://github.com/VishalMaurya15031/react-ui-qualifier.git
+```
+
+
+This project demonstrates:
+
+* Understanding of React fundamentals
+* Component-based architecture
+* Responsive UI development
+* Clean and readable code structure
+
+## 👨‍💻 Author
+
+Vishal Maurya
